@@ -16,7 +16,7 @@ Four switches are connected to a decoder filled with AND and OR gates that are a
 Set the inputs and check the outputs match with the expected results
 | A | B | C | D | Display | a | b | c | d | e | f | g |
 |---|---|---|---|---------|---|---|---|---|---|---|---|
-| 0 |
+| 0 | 0 |
 ## External hardware
 
 List external hardware used in your project (e.g. PMOD, LED display, etc), if any
