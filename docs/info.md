@@ -9,12 +9,14 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Four switches are connected to a decoder filled with AND and OR gates that are able to manipulate 7 ouuputs
 
 ## How to test
 
-Explain how to use your project
-
+Set the inputs and check the outputs match with the expected results
+| A | B | C | D | Display | a | b | c | d | e | f | g |
+|---|---|---|---|---------|---|---|---|---|---|---|---|
+| 0 |
 ## External hardware
 
 List external hardware used in your project (e.g. PMOD, LED display, etc), if any
